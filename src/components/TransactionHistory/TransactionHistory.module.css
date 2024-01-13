@@ -1,0 +1,11 @@
+.transaction-history {
+  width: 400px;
+  border: 1px solid white;
+}
+tbody {
+  text-align: center;
+}
+
+td {
+  border: 1px solid white;
+}
