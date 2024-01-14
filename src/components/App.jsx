@@ -1,5 +1,5 @@
 import Profile from "./Profile/Profile.jsx"
-import userData from "../userData.json"
+import userData from "../data.json"
 import FriendList from "./FriendList/FriendList.jsx"
 import friends from "../friends.json"
 import TransactionHistory from "./TransactionHistory/TransactionHistory.jsx"
